@@ -39,14 +39,14 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Football
         link:
 
-      - item: Snowboarding
+      - item: Gaming
         link:
 
-      - item: Cooking
-        link:
+#       - item: Cooking
+#         link:
 
 career-profile:
     title: Career Profile
