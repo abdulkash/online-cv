@@ -32,11 +32,11 @@ sidebar:
       - idiom: English
         level: Native
 
-#       - idiom: French
-#         level: Professional
+      - idiom: 
+        level: 
 
-#       - idiom: Spanish
-#         level: Professional
+      - idiom: 
+        level: 
 
     interests:
       - item: Football
