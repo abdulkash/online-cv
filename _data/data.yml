@@ -67,14 +67,13 @@ experiences:
         Created complex mobile applications using flutter technologies.
           - Tested applications prior to final review to verify issue resolution.
           - Led highly productive team of developers in mobile app creation cycle for mobile market.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Mobile Developer 
+      time: 2021 - 2022
+      company: Blackswan Relationship Academy
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        Cum sociis natoque penatibus et m
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
@@ -82,13 +81,10 @@ experiences:
       time: 2012 - 2014
       company: Amazon, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Created a social media and chatting system using firebase and flutter
+          - Applied various techniques to locate bugs and errors in applications for speedy issue resolution
+          - Provided dedicated support and timely issue resolution to clients following successful app launch.
+          - Delivered weekly progress report to executive staff and informed applicable parties of upcoming milestones.
 projects:
     title: Projects
     intro: >
