@@ -16,13 +16,13 @@ sidebar:
     phone: 0915 222 9516
     citizenship:
     website: #blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    linkedin: abdul kash
+    #xing: alandoe
+    github: abdulkash
+    telegram: kashsmile
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -45,11 +45,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced and dedicated Mobile App Developer with impressive expertise in e-commerce, media and health industry. Directs design, development and implementation of mobile applications and delivers products ahead of schedule. Strong application lifecycle skills and dynamic persona. Proactive, talented communicator well-versed in all aspects of mobile app development. Results oriented with more than 2 years of experience in IT industry. Solidifies client relations and growth through improved workflows and enhanced features. Creative Mobile Application Developer talented at integrating novel design elements and interaction points to build new and exciting user experiences. Known for advancing mobile apps through unique and unusual interfaces. Committed to presenting users with easy-to-use interfaces and entertainment elements while driving exceptional.
+      Experienced and dedicated Mobile App Developer with impressive expertise in e-commerce, media and health industry. Directs design, development and implementation of mobile applications and delivers products ahead of schedule. Strong application lifecycle skills and dynamic persona. Proactive, talented communicator well-versed in all aspects of mobile app development. Results oriented with more than 2 years of experience in IT industry. Solidifies client relations and growth through improved workflows and enhanced features. Creative Mobile Application Developer talented at integrating novel design elements and interaction points to build new and exciting user experiences. Known for advancing mobile apps through unique and unusual interfaces.
 education:
-    - degree: MSc in Computer Science
+    - degree: Bsc in Computer Science
       university: University of London
-      time: 2011 - 2012
+      time: 2018 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -58,33 +58,15 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Mobile Developer 
+      time: 2020 - Present
+      company: Koolkatcre8
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Created complex mobile applications using flutter technologies.
+          - Tested applications prior to final review to verify issue resolution.
+          - Led highly productive team of developers in mobile app creation cycle for mobile market.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
