@@ -48,11 +48,7 @@ career-profile:
       Experienced and dedicated Mobile App Developer with impressive expertise in e-commerce, media and health industry. Directs design, development and implementation of mobile applications and delivers products ahead of schedule. Strong application lifecycle skills and dynamic persona. Proactive, talented communicator well-versed in all aspects of mobile app development. Results oriented with more than 2 years of experience in IT industry. Solidifies client relations and growth through improved workflows and enhanced features. Creative Mobile Application Developer talented at integrating novel design elements and interaction points to build new and exciting user experiences. Known for advancing mobile apps through unique and unusual interfaces.
 education:
     - degree: Bsc in Computer Science
-
-     
-
       university: University of Calabar 
-
       time: 2018 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -75,20 +71,11 @@ experiences:
       time: 2021 - 2022
       company: Blackswan Relationship Academy
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et m
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
         Created a social media and chatting system using firebase and flutter
           - Applied various techniques to locate bugs and errors in applications for speedy issue resolution
           - Provided dedicated support and timely issue resolution to clients following successful app launch.
           - Delivered weekly progress report to executive staff and informed applicable parties of upcoming milestones.
+        
 projects:
     title: Projects
     intro: >
